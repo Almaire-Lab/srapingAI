@@ -1,9 +1,3 @@
-# srapingAI
-Scraping d'un site incluant des publication scientifique AI.
-
-Merci pour le partage du code ! Voici un `README.md` bien rédigé, structuré et adapté **à ton script spécifique**, en décrivant clairement les fonctionnalités réelles et les objectifs du projet :
-
----
 
 # AI Evolution Tracker – Scraping ArXiv for AI Publications
 
